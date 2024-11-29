@@ -1,7 +1,7 @@
 # Aerolinea _BondiJet_
 
-A partir de 3 una interfaz, una clase de tests y una clase principal provistas por la cátedra, debimos desarrollar un proyecto que satisfaga las necesidades de una Aerolínea llamada Bondijet. Además, debimos cumplir ciertos requerimientos técnicos
-tales como el correcto uso de **herencia, polimorfismo, sobreescritura, sobrecarga, interfaces, clases/métodos abstractos, iteradores, foreach y StringBuilder**
+A partir de una interfaz, una clase de tests y una clase principal provistas por la cátedra, debimos desarrollar un proyecto que satisfaga las necesidades de una Aerolínea llamada Bondijet. Además, debimos cumplir ciertos requerimientos técnicos
+tales como el correcto uso de **herencia, polimorfismo, sobreescritura, sobrecarga, interfaces, clases/métodos abstractos, iteradores, foreach y StringBuilder**.
 
 ## 📋Consigna
 
